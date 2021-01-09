@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="this_is_a_number_guessing_game_enter_a_number_and_guess_the_right_number_between_1_to_50">This is a number Guessing Game. Enter a number and guess the right number between 1 to 50.</string>
+    <string name="guess_number">Guess Number</string>
+    <string name="check">Check</string>
+    <string name="generate">Generate</string>
+    <string name="want_to_give_up_generate_new_number">Want to Give up? Generate new Number</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="todo">TODO</string>
+    <string name="convert_currency_amount_from_ruppees_to_dollar">Convert Currency Amount from Ruppees to Dollar</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert">Convert</string>
+</resources>

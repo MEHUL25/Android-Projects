@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smarty Timer</string>
+    <string name="slide_on_to_adjust_the_timer">Slide on to adjust the Timer</string>
+    <string name="_0_30">0:30</string>
+    <string name="go">Go</string>
+    <string name="todo">TODO</string>
+</resources>
